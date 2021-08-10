@@ -8,9 +8,9 @@ A ideia por trás deste projeto é desenvolver uma plataforma que visa conectar 
 Stackoverflow instantâneo em vídeo 
 
 ### Referências/Inspirações
-https://codementor.io/
-https://www.getninjas.com.br
-https://www.fiverr.com/
+* https://codementor.io/
+* https://www.getninjas.com.br
+* https://www.fiverr.com/
 
 ### Exemplos de Funcionalidades
 * CRUD de usuários
